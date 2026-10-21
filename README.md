@@ -18,6 +18,9 @@ Produtora de vídeos curtos com a linguagem nativa do digital, do roteiro à ent
 
 Onde eu e o [Gabriel Cabral](https://github.com/gabrielccabral) fazemos ferramentas e produtos digitais com IA: apps, automações e o que mais der vontade de tirar do papel.
 
+- **[Quadro Carrossel](https://quadro-carrossel-app.web.app)**: monta carrossel de Instagram no navegador, com foto, vídeo e texto numa tela só.
+- **[Tinta](https://gabrielcabral.art.br/derivas/tinta/)**: passa qualquer fonte por uma simulação de tinta e desgaste e devolve um arquivo de fonte pronto pra instalar.
+
 ---
 
 ## Projetos meus
