@@ -18,6 +18,10 @@ Produtora de vídeos curtos com a linguagem nativa do digital, do roteiro à ent
 
 Onde eu e o [Gabriel Cabral](https://github.com/gabrielccabral) fazemos ferramentas e produtos digitais com IA: apps, automações e o que mais der vontade de tirar do papel.
 
+---
+
+## Projetos meus
+
 ### [motion-eleicao](https://github.com/fgf0t/motion-eleicao)
 
 Uma skill gratuita pro Claude Code e o Codex que faz vídeo motion 9:16 sobre a eleição a partir de uma pauta: fonte em todo fato, voz grátis, imagens livres e animação feita em código.
